@@ -8,8 +8,8 @@ body {
 
 section {
 	display: block;
-	padding-left: 0.5rem;
-	padding-right: 0.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
 	height: auto;
 }
 
@@ -125,7 +125,9 @@ img.profile-pic {
 }
 
 .banner {
-	height: 30%;
+	height: 150px;
+	padding-top: 35px;
+	padding-bottom: 0px;
 }
 
 .primary-info {
