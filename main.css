@@ -139,7 +139,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #00122A;
+	background: linear-gradient(#2F80ED, #2D9CDB, #2D9CDB 59.4%, #FFFFFF 59.4%);
 }
 
 .bg-color-white {
